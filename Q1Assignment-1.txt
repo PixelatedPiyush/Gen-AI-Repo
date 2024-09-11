@@ -1,0 +1,15 @@
+Q1. Explain the key features of python..that make it a popular choice for the programmers.
+--> Ans: 1. The python has very simple syntax.
+ 2. It has lot of library support. more than 137000.
+ (1) pandas.
+ (2) numpy.
+ (3) pytorch.
+ (4) turtle.
+ 3. used in all fortune industries.
+ 4. widely used in the Data science industry.
+ (1) data science.
+ (2) ML engineering.
+ (3) data analytics.
+ (4)business analytics.
+ (5)Python community has very active community.
+ that is why the programmers prefer python programming language most, and nowadays the trend is also of Gen-AI so that is why I also choose Python.
